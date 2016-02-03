@@ -1,0 +1,56 @@
+/***********
+	GENERAL
+************/
+
+body {
+	font-family: 'Fira Sans', sans-serif;
+}
+
+a {
+	text-decoration: none;
+}
+
+
+
+/************
+HEADING
+************/
+
+header {
+	float: left;
+	margin: 0 0 30px 0;
+	padding: 5px 0 0 0;
+	width: 100%;
+}
+
+h1 {
+	font-family: 'Orbitron', sans-serif;
+	margin: 15px 0;
+	font-size: 1.75em;
+	line-height: 2em;
+}
+
+#logo {
+	text-align: center;
+	margin: 0;
+}
+
+
+/************
+COLOURS
+************/
+
+body {
+	background-color: #fff;
+	color: #999;
+}
+
+header {
+	background-color: #3366ff;
+	border-color: #002db3;
+}
+
+h1 {
+	color: #fff;
+}
+
