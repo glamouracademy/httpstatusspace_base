@@ -74,6 +74,15 @@ GALLERY
 	display: inline-block;
 }
 
+#gallery li:hover{
+	background-color: #ff8433;
+}
+
+#gallery li:hover h3, #gallery li:hover p {
+	color: #fff;
+}
+
+
 
 #gallery li a p {
 	margin: 0;
@@ -116,7 +125,7 @@ body {
 
 header {
 	background-color: #3366ff;
-	border-color: #002db3;
+	border-bottom: 5px solid #ff6600;
 }
 
 h1 {
