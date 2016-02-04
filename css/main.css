@@ -36,7 +36,7 @@ header {
 h1 {
 	font-family: 'Orbitron', sans-serif;
 	margin: 15px 0;
-	font-size: 2.5em;
+	font-size: 1.5em;
 	line-height: 2em;
 }
 
@@ -53,10 +53,10 @@ GALLERY
 	margin: 0 auto;
 }
 
-h3 {
+#gallery h3 {
 	font-family: 'Orbitron', sans-serif;
-	font-size: 1.25em;
-	color: #666;
+	font-size: 1em;
+	color: #a6a6a6;
 	margin: 0;
 }
 
@@ -68,9 +68,9 @@ h3 {
 }
 
 #gallery li {
-	background-color: #ccc; 
-	width: 30%;
-	margin: 1.6665%;
+	background-color: #e6e6e6;  
+	width: 45%;
+	margin: 2.5%;
 	float: left;
 }
 
@@ -78,8 +78,8 @@ h3 {
 #gallery li a p {
 	margin: 0;
 	padding: 1%;
-	font-family: 0.4em;
-	color: #666;
+	font-size: 0.75em;
+	color: #a6a6a6;
 	text-transform: uppercase;
 }
 

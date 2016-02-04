@@ -1,0 +1,56 @@
+@media screen and (min-width: 480px) {
+
+/************
+HEADING
+************/
+
+header {
+	float: left;
+	margin: 0 0 30px 0;
+	padding: 5px 0 0 0;
+	width: 100%;
+}
+
+h1 {
+	font-family: 'Orbitron', sans-serif;
+	margin: 15px 0;
+	font-size: 2.5em;
+	line-height: 2em;
+}
+
+#logo {
+	text-align: center;
+	margin: 0;
+}
+
+/************
+GALLERY
+************/
+
+	#gallery li {
+		float: left;
+		width: 30%;
+		margin: 1.6665%;
+	}
+
+
+	#gallery h3 {
+		font-size: 1.15em;
+	}
+
+	#gallery li a p {
+		padding: 1%;
+		font-family: 1em;		
+		text-transform: uppercase;
+	}
+
+}
+
+
+@media screen and (min-width: 660px) {
+
+/************
+HEADING
+************/
+
+}
