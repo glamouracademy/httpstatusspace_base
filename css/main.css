@@ -20,8 +20,6 @@ img {
 	padding: 0 5%;
 }
 
-
-
 /************
 HEADING
 ************/
@@ -82,14 +80,41 @@ GALLERY
 	color: #fff;
 }
 
-
-
 #gallery li a p {
 	margin: 0;
 	padding: 1%;
 	font-size: 0.75em;
 	color: #a6a6a6;
 	text-transform: uppercase;
+}
+
+
+/************
+PAGE: ABOUT
+************/
+
+.profile-photo {
+	display: block;
+	max-width: 150px;
+	margin: 0 auto 30px;
+}
+
+.about h3 {
+	font-family: 'Orbitron', sans-serif;
+	margin: 0 0 1em 0;
+	text-align: center;
+}
+
+.about p {
+	font-weight: 100;
+}
+
+.about a {
+	font-weight: 500;
+}
+
+.about a:hover {
+	color: #ff8433;
 }
 
 
@@ -113,6 +138,10 @@ footer {
 }
 
 
+footer a:hover {
+	color: #ff8433;
+}
+
 
 /************
 COLOURS
@@ -123,6 +152,10 @@ body {
 	color: #999;
 }
 
+a {
+	color: #999;
+}
+
 header {
 	background-color: #3366ff;
 	border-bottom: 5px solid #ff6600;
@@ -130,5 +163,9 @@ header {
 
 h1 {
 	color: #fff;
+}
+
+.title {
+	color: #8c8c8c;
 }
 
