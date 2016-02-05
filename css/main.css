@@ -128,7 +128,6 @@ footer {
 	text-align: center;
 	padding-top: 50px;
 	clear: both;
-	color: #666;
 }
 
 .social-icon {
@@ -137,6 +136,9 @@ footer {
 	margin: 0 5px;
 }
 
+footer a {
+	font-weight: 600;
+}
 
 footer a:hover {
 	color: #ff8433;
